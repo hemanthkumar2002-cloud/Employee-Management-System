@@ -19,6 +19,10 @@ The Employee Management System is a web-based application designed to facilitate
   - Implements functions for displaying employees (`displayele`), filtering employees by gender, and searching employees (`Searched` function).
 - **Event Handling:** Uses event listeners to trigger functions based on user interactions.
 
+## images
+
+-<img src="images/img1.png"> -<img src="images/Screenshot 2024-07-03 130020.png">
+
 ## How to Use
 
 1. Clone the repository:
